@@ -49,5 +49,7 @@ If you would like to appeal a suspension, please contact [rallychat+appeals@goog
 We abide by laws within the following jurisdictions:
 
 | Jurisdiction(s) | Reason |
-|:---------------:|--------|
-| European Union  | 👍      |
+|:---:|---|
+| Romania | Database |
+| United States, Japan | Database (Replicas) |
+| European Union | 👍 |

@@ -1,2 +1,2 @@
-# Rally
-Free &amp; Open-source chat platform.
+# Rally `.github`
+Profile configuration for RallyChat
